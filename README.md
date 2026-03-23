@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=Na-Kyeong's%20GitHub&fontSize=42&fontColor=ffffff&fontAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9d423,100:f5a623&height=160&section=header&text=Na-Kyeong's%20GitHub&fontSize=42&fontColor=1a1a2e&fontAlignY=55" />
 
 <div align="center">
 
@@ -50,13 +50,10 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LNK1119&langs_count=6&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LNK1119&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![solved.ac profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=lwknk1119)](https://solved.ac/lwknk1119)
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5a623,100:f9d423&height=120&section=footer" />
