@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h3>안녕하세요! 임베디드 SW 개발자 임나경입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /></h3>
+<h3>안녕하세요! 임베디드 SW 개발자 IM NAGYEONG 입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /></h3>
 
 <p><i>차량과 소프트웨어가 만나는 곳에서 일하고 싶은 <b>Automotive Embedded SW Developer</b></i></p>
 
@@ -53,6 +53,19 @@
 [![solved.ac profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=lwknk1119)](https://solved.ac/lwknk1119)
 
 </div>
+
+---
+
+### 🏢 Organizations
+
+| | 이름 | 설명 |
+|:---:|:---|:---|
+| <img src="https://avatars.githubusercontent.com/u/168527226?s=40&v=4" width="30"/> | [**DaliBike**](https://github.com/DaliBike) | 🚲 유저 참여 기반 실시간 자전거 지도 및 커뮤니티 시스템 |
+| <img src="https://avatars.githubusercontent.com/u/184917999?s=40&v=4" width="30"/> | [**Sl0wmon**](https://github.com/Sl0wmon) | 🚗 안전운전을 위한 지혜로운 선택 (급발진 감지) |
+| <img src="https://avatars.githubusercontent.com/u/Camp-Site?s=40&v=4" width="30"/> | [**Camp-Site**](https://github.com/Camp-Site) | 🏕️ 캠핑 관련 프로젝트 |
+| <img src="https://avatars.githubusercontent.com/u/moiggu?s=40&v=4" width="30"/> | [**moiggu**](https://github.com/moiggu) | 🗺️ 네이버 지도 API 기반 지역 서비스 |
+| <img src="https://avatars.githubusercontent.com/u/mo-meet?s=40&v=4" width="30"/> | [**mo-meet**](https://github.com/mo-meet) | 👥 대학 이메일 인증 기반 동아리 통합 관리 앱 |
+| <img src="https://avatars.githubusercontent.com/u/MOBIUS-BOOTCAMP-PBL-NoBrake?s=40&v=4" width="30"/> | [**MOBIUS-BOOTCAMP-PBL-NoBrake**](https://github.com/MOBIUS-BOOTCAMP-PBL-NoBrake) | 🔧 모비우스 부트캠프 · OTA 기반 차량 기능 업데이트 시스템 |
 
 ---
 
